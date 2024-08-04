@@ -3,7 +3,6 @@ This is a demo for git &amp; github class.
 
 
 # Teacher
-MahendiAghariya
-
+Shradha khapra
 # Student
-Akbar Marediya
+Mahendiali Aghariya
